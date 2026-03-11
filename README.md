@@ -57,6 +57,9 @@ Visualization
 
 # 1. 프로젝트 개요
 
+<img width="453" height="200" alt="image" src="https://github.com/user-attachments/assets/473ab3a3-f743-4bb2-a17c-15dc362e188c" />
+
+
 불법 주정차는 도시 교통 흐름을 방해하고 보행자 안전을 위협하는 대표적인 도시 문제 중 하나이다.  
 본 프로젝트는 창원시의 불법 주정차 단속 데이터를 기반으로 불법 주정차 발생 패턴을 분석하고, 인구·차량·주차 인프라와의 관계를 탐색하는 것을 목표로 한다.
 
