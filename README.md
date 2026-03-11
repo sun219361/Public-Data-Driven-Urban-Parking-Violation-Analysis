@@ -34,24 +34,35 @@ Visualization
 ### 불법 주정차 공간 분포 지도
 
 ![Illegal Parking Map](images/illegal_parking_map.png)
+---
+
+### 불법 주정차 주변 환경 분석
+
+
+<img width="457" height="178" alt="image" src="https://github.com/user-attachments/assets/ca397fe8-5d33-4c3c-9420-709b238879c1" />
+
 
 ---
 
 ### 시간대별 단속 패턴
 
-![Time Analysis](images/time_analysis.png)
+<img width="399" height="271" alt="image" src="https://github.com/user-attachments/assets/4401c5da-927d-44f3-a420-87f5cb32d5c5" />
+
+
+<img width="1133" height="642" alt="image" src="https://github.com/user-attachments/assets/705df174-764d-472b-bda0-2d25aeddc58a" />
+
 
 ---
 
 ### 행정동별 단속 건수 분석
 
-![District Analysis](images/district_analysis.png)
+<img width="397" height="310" alt="image" src="https://github.com/user-attachments/assets/d095cb0f-9266-4a5f-8af0-1cc1fbf1c48e" />
+
 
 ---
 
 ### 주차장 수와 단속 건수 비교
-
-![Parking vs Enforcement](images/parking_vs_enforcement.png)
+<img width="431" height="259" alt="image" src="https://github.com/user-attachments/assets/36765360-4873-4793-afe3-7675aeba7c9d" />
 
 ---
 
