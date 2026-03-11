@@ -32,8 +32,8 @@ Visualization
 ## Key Visualization
 
 ### 불법 주정차 공간 분포 지도
+<img width="341" height="164" alt="image" src="https://github.com/user-attachments/assets/1d9cfa50-98ca-4d26-80c3-b619f54b8c73" />
 
-![Illegal Parking Map](images/illegal_parking_map.png)
 ---
 
 ### 불법 주정차 주변 환경 분석
