@@ -29,43 +29,6 @@ Visualization
 
 ---
 
-## Key Visualization
-
-### 불법 주정차 공간 분포 지도
-<img width="341" height="164" alt="image" src="https://github.com/user-attachments/assets/1d9cfa50-98ca-4d26-80c3-b619f54b8c73" />
-
----
-
-### 불법 주정차 주변 환경 분석
-
-
-<img width="457" height="178" alt="image" src="https://github.com/user-attachments/assets/ca397fe8-5d33-4c3c-9420-709b238879c1" />
-
-
----
-
-### 시간대별 단속 패턴
-
-<img width="399" height="271" alt="image" src="https://github.com/user-attachments/assets/4401c5da-927d-44f3-a420-87f5cb32d5c5" />
-
-
-<img width="1133" height="642" alt="image" src="https://github.com/user-attachments/assets/705df174-764d-472b-bda0-2d25aeddc58a" />
-
-
----
-
-### 행정동별 단속 건수 분석
-
-<img width="397" height="310" alt="image" src="https://github.com/user-attachments/assets/d095cb0f-9266-4a5f-8af0-1cc1fbf1c48e" />
-
-
----
-
-### 주차장 수와 단속 건수 비교
-<img width="431" height="259" alt="image" src="https://github.com/user-attachments/assets/36765360-4873-4793-afe3-7675aeba7c9d" />
-
----
-
 # 1. 프로젝트 개요
 
 <img width="453" height="200" alt="image" src="https://github.com/user-attachments/assets/473ab3a3-f743-4bb2-a17c-15dc362e188c" />
@@ -222,11 +185,20 @@ GeoPandas와 행정동 경계 데이터를 활용하여 불법 주정차 위치 
 
 # 6. 데이터 시각화
 
+
+
 ## 불법 주정차 위치 지도 시각화
 
 아래 지도는 불법 주정차 단속 위치를 기반으로 생성한 공간 분포 지도이다.
+<img width="341" height="164" alt="image" src="https://github.com/user-attachments/assets/1d9cfa50-98ca-4d26-80c3-b619f54b8c73" />
 
-![Illegal Parking Map](images/illegal_parking_map.png)
+---
+
+### 불법 주정차 주변 환경 분석
+
+
+<img width="457" height="178" alt="image" src="https://github.com/user-attachments/assets/ca397fe8-5d33-4c3c-9420-709b238879c1" />
+
 
 ---
 
@@ -234,7 +206,11 @@ GeoPandas와 행정동 경계 데이터를 활용하여 불법 주정차 위치 
 
 불법 주정차 단속 건수를 시간대 기준으로 분석하였다.
 
-![Time Analysis](images/time_analysis.png)
+<img width="399" height="271" alt="image" src="https://github.com/user-attachments/assets/4401c5da-927d-44f3-a420-87f5cb32d5c5" />
+
+
+<img width="1133" height="642" alt="image" src="https://github.com/user-attachments/assets/705df174-764d-472b-bda0-2d25aeddc58a" />
+
 
 ---
 
@@ -242,15 +218,15 @@ GeoPandas와 행정동 경계 데이터를 활용하여 불법 주정차 위치 
 
 행정동 단위로 불법 주정차 단속 건수를 비교하였다.
 
-![District Analysis](images/district_analysis.png)
+<img width="397" height="310" alt="image" src="https://github.com/user-attachments/assets/d095cb0f-9266-4a5f-8af0-1cc1fbf1c48e" />
+
 
 ---
 
 ## 주차장 수와 단속 건수 비교
 
 주차 인프라와 단속 건수 간의 관계를 분석하였다.
-
-![Parking vs Enforcement](images/parking_vs_enforcement.png)
+<img width="431" height="259" alt="image" src="https://github.com/user-attachments/assets/36765360-4873-4793-afe3-7675aeba7c9d" />
 
 ---
 
