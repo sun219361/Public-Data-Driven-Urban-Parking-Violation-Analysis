@@ -1,5 +1,5 @@
 # 창원시 불법 주정차 데이터 분석 프로젝트
-![Project Overview](images/illegal_parking_map.png)
+
 ### Public Data–Driven Urban Parking Violation Analysis
 
 창원시 불법 주정차 단속 데이터를 기반으로 **주정차 위반의 시간적·공간적 패턴을 분석하고,  
