@@ -243,39 +243,11 @@ GeoPandas와 행정동 경계 데이터를 활용하여 불법 주정차 위치 
 
 ---
 
-# 8. 프로젝트 구조
-changwon-illegal-parking-analysis
-
-README.md
-
-notebooks
-│
-├── 01_data_preprocessing.ipynb
-├── 02_region_analysis.ipynb
-└── 03_parking_vs_enforcement_analysis.ipynb
-
-data
-│
-├── illegal_parking_data.csv
-├── parking_lot_data.csv
-└── population_data.csv
-
-geo
-│
-└── administrative_district_shapefile
-
-images
-│
-├── illegal_parking_map.png
-├── time_analysis.png
-├── district_analysis.png
-└── parking_vs_enforcement.png
-
 
 
 ---
 
-# 9. 향후 확장 가능성
+# 8. 향후 확장 가능성
 
 - 머신러닝 기반 불법 주정차 발생 예측 모델 구축  
 - 시간 기반 예측 모델 (Time Series Forecasting)  
@@ -284,10 +256,8 @@ images
 
 ---
 
-# 10. 프로젝트 수행
+# 9. 프로젝트 수행
 
-Han Sunwook  
-Gachon University  
 AI · Software Department  
 Artificial Intelligence Major  
 
@@ -300,7 +270,7 @@ Artificial Intelligence Major
 
 ---
 
-# 11. 프로젝트 의의
+# 10. 프로젝트 의의
 
 본 프로젝트는 공공데이터와 공간 데이터를 결합하여 도시 문제를 분석한 데이터 분석 프로젝트이다.
 
